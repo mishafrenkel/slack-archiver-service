@@ -13,10 +13,10 @@
   "license": "ISC",
   "dependencies": {
     "@babel/polyfill": "^7.4.4",
-    "body-parser": "^1.17.2",
+    "body-parser": "^1.20.1",
     "dotenv": "^8.0.0",
     "env-cmd": "^9.0.3",
-    "express": "^4.15.3",
+    "express": "^4.18.2",
     "mobx": "^3.1.10",
     "mobx-react": "^4.1.8",
     "morgan": "^1.8.2",
