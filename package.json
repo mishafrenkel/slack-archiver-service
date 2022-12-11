@@ -16,7 +16,7 @@
     "body-parser": "^1.17.2",
     "dotenv": "^8.0.0",
     "env-cmd": "^9.0.3",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "mobx": "^3.1.10",
     "mobx-react": "^4.1.8",
     "morgan": "^1.8.2",
